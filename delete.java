@@ -1,4 +1,4 @@
 class deleting
 {
- delete;
+ delete operation;
  }
