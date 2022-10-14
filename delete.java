@@ -1,0 +1,4 @@
+class deleting
+{
+ delete;
+ }
